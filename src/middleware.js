@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.azharfitnesscenter';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.komaldietsclinic';
 const APP_STORE_URL =
-  'https://apps.apple.com/us/app/wellnessz/id6478812964';
+  'https://apps.apple.com/us/app/komal-diet-clinic/id6755181492';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;

@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.azharfitnesscenter",
+      "package_name": "com.wellnessz.komaldietsclinic",
       "sha256_cert_fingerprints": [
-        "9B:2E:73:E1:CA:F4:C8:B2:6C:1A:B5:BC:37:7C:D5:56:C3:2E:DD:18:37:64:0B:CA:88:4B:CD:02:E8:C0:45:83"
+        "62:3B:22:7D:19:1E:17:25:CD:9F:4D:D1:04:38:31:5C:B8:4F:4A:00:5E:36:B0:7A:E7:64:83:E0:22:62:CF:E4"
       ]
     }
   }
