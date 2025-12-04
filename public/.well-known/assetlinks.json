@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.azharfitnesscenter",
+      "sha256_cert_fingerprints": [
+        "9B:2E:73:E1:CA:F4:C8:B2:6C:1A:B5:BC:37:7C:D5:56:C3:2E:DD:18:37:64:0B:CA:88:4B:CD:02:E8:C0:45:83"
+      ]
+    }
+  }
+]
